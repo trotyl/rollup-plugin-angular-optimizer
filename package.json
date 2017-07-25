@@ -1,0 +1,16 @@
+{
+  "name": "rollup-plugin-angular-optimizer",
+  "version": "0.1.0",
+  "description": "TODO",
+  "main": "index.js",
+  "repository": "https://github.com/trotyl/rollup-plugin-angular-optimizer.git",
+  "author": "Trotyl <trotyl@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angular-devkit/build-optimizer": "^0.0.7"
+  },
+  "devDependencies": {
+    "@types/source-map": "^0.5.0",
+    "@types/webpack": "^3.0.5"
+  }
+}
