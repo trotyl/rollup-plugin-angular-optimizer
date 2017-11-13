@@ -9,11 +9,11 @@ It's just an experimental version yet, be careful when playing with it.
 ## Usage
 
 ```javascript
-import angularOptimizer from 'rollup-plugin-angular-optimizer'
+import buildOptimizer from 'rollup-plugin-angular-optimizer'
 
 export default {
   plugins: [
-    angularOptimizer(),
-  ],
+    buildOptimizer()
+  ]
 }
 ```
